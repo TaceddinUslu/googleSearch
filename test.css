@@ -1,0 +1,22 @@
+img {
+    display: block;
+    margin: 60 auto;
+    width: 25%;
+  }
+#google_bar{
+
+    margin-left: 38%;
+    margin-top: -120px ;
+    border-radius: 50px;
+}
+#search{
+  border-radius: 13px;
+}
+
+#ara{
+  border-radius: 10px;
+}
+
+#lucky{
+  border-radius: 10px;
+}
